@@ -1,7 +1,7 @@
 # My First web page
 
 Welcome!
-[Google] (www.google.com)
+[Google](www.google.com)
 
 ## h2
 
